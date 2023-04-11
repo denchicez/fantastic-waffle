@@ -137,6 +137,7 @@
 				6F7F8A5729E57F21003B799B /* Sources */,
 				6F7F8A5829E57F21003B799B /* Frameworks */,
 				6F7F8A5929E57F21003B799B /* Resources */,
+				6F7F8A8A29E588B8003B799B /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -251,6 +252,28 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6F7F8A8A29E588B8003B799B /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "echo \"Hello world123\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		6F7F8A5729E57F21003B799B /* Sources */ = {

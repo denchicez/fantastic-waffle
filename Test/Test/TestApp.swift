@@ -14,4 +14,5 @@ struct TestApp: App {
             ContentView()
         }
     }
+    let abcmain = 1
 }
